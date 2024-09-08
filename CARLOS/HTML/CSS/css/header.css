@@ -1,0 +1,22 @@
+.header {
+	background-color: #9c6a38;
+	padding: 30px;
+	align-items: center;
+}
+.nav {
+	justify-content: center;
+	background-color: #394c64;
+	align-items: center;
+	display: flex;
+	border-radius: 50px;
+}
+.logolosbodes {
+	width: 300px;
+}
+.ul {
+	font-size: 25px;
+	align-items: center;
+	padding: 20px;
+	display: flex;
+	gap: 50px;
+}

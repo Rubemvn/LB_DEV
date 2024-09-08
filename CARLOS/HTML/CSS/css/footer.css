@@ -1,0 +1,14 @@
+.rodape {
+	background-color: #394c64;
+	padding: 30px;
+	font-size: 50px;
+	text-align: center;
+	align-items: center;
+}
+
+.botao {
+	font-size: 40px;
+	background-color: #9c6a38;
+	padding: 10px;
+	border-radius: 50px;
+}

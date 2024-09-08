@@ -1,0 +1,35 @@
+.section1,
+.section2,
+.section3,
+.section4 {
+	text-align: center;
+	padding: 30px;
+	font-family: 'roboto';
+	margin: 0px 20px 0px 20px;
+	border-radius: 50px;
+
+	h2 {
+		color: #fff;
+	}
+}
+
+.section1 {
+	background-color: #394c64;
+}
+
+.section2 {
+	background-color: #9c6a38;
+}
+.section3 {
+	background-color: #394c64;
+
+	h2 {
+		color: #ff0000;
+	}
+}
+.section4 {
+	background-color: #9c6a38;
+}
+.main {
+	background-color: #9c6a38;
+}
